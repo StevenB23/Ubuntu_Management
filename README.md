@@ -1,3 +1,1 @@
-# hello-world
-My First test Project
-"Just testing how branching works Let's see if this comes out"
+Commands and methods for managing Ubuntu processes and main applications.
