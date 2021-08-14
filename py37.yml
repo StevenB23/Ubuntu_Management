@@ -1,0 +1,8 @@
+name: py37
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - ipykernel
+  - ipywidgets
+prefix: /home/unixstricken/anaconda3/envs/py37

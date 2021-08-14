@@ -1,0 +1,7 @@
+name: py27
+channels:
+  - defaults
+dependencies:
+  - python=2.7
+  - ipykernel
+prefix: /home/unixstricken/anaconda3/envs/py27
