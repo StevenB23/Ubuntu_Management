@@ -11,7 +11,7 @@ ChatterBot
 chatterbot-corpus
 click==7.1.1
 colorama==0.4.3
-cryptography==2.8
+cryptography==3.3.2
 cycler==0.10.0
 cymem==2.0.2
 dataclasses==0.6
