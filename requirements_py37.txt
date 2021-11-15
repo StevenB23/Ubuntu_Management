@@ -59,7 +59,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.2.0
 Pint==0.11
-pip==21.0.1
+pip==21.1
 plac==0.9.6
 pluggy==0.13.1
 preshed==2.0.1
