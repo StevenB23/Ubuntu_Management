@@ -1,6 +1,6 @@
 backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
-certifi==2020.6.20
+certifi==2022.12.7
 decorator==4.4.2
 enum34==1.1.6
 futures==3.3.0
